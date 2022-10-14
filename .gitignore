@@ -109,6 +109,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+rkdemo/
 
 # Spyder project settings
 .spyderproject
